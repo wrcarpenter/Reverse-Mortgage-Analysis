@@ -16,10 +16,15 @@ Understand reverse mortgage characteristics and translate that to modelling cash
 
 Parse loan-level data to understand historical prepayment behavior of reverse MBS.
 
+## Cashflows 
+
+Monthly interest payments.
+Adjustable interest rate. 
+Option to prepay.
+
 ## Programs
 
 Exploring and pricing a reverse MBS security (pool of loans).
-
 Exploring loan-level data and calculating prepayments.
 
 
